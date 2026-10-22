@@ -1,7 +1,7 @@
 
 import json
 from pathlib import Path
-from fastapi import APIRouter, Query
+from fastapi import APIRouter, Query, HTTPException
 
 router = APIRouter()
 
@@ -15,7 +15,6 @@ def inicio():
 
 @router.get("/imoveis")
 def listar_imoveis(cidade: str | None = None,pagina: int = Query(default=1, ge=1,description="Número da página, começando em 1"),limite: int = Query(default=10,ge=1,le=100,description="Quantidade de imóveis por página (de 1 a 100)")):
-
 
     imoveis_filtrados = []
 
@@ -33,3 +32,26 @@ def listar_imoveis(cidade: str | None = None,pagina: int = Query(default=1, ge=1
     fim = inicio + limite
 
     return imoveis_filtrados[inicio:fim]
+
+@router.get("/imoveis/{imovel_id}")
+def buscar_imovel(imovel_id: int):
+    if imovel_id < 1:
+        raise HTTPException(
+            status_code=400,
+            detail="Apenas numeros positivos"
+    )
+    with open(CAMINHO_DADOS, "r", encoding="utf-8") as arquivo:
+        imoveis = json.load(arquivo)
+    for linha in imoveis:
+        
+        if linha["id"] == imovel_id:
+            return linha
+
+    raise HTTPException(
+	    status_code=404,
+	    detail="valor nao encontrado"
+	)
+        
+
+        
+	
