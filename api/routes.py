@@ -17,6 +17,7 @@ def inicio():
 @router.get("/imoveis")
 def listar_imoveis(
     cidade: str | None = None,
+    tipo: Literal["Apartamento", "Casa", "Terreno", "Kitnet"] | None = None,
     pagina: int = Query(
         default=1,
         ge=1,
@@ -28,16 +29,29 @@ def listar_imoveis(
         le=100,
         description="Quantidade de imóveis por página (de 1 a 100)"
     ),
-    ordem: Literal["menor_preco", "maior_preco"] = Query(
-    default="menor_preco",
-    description="Ordenação dos imóveis por preço"
+    ordem: Literal["id", "menor_preco", "maior_preco"] = Query(
+    default="id",
+    description="Ordenação dos imóveis por ID ou preço"
 )
 ):
     imoveis_filtrados = []
 
     with open(CAMINHO_DADOS, "r", encoding="utf-8") as arquivo:
         imoveis = json.load(arquivo)
+    cidades = sorted(set(imovel["cidade"] for imovel in imoveis))
 
+    if cidade is not None and cidade not in cidades:
+        raise HTTPException(
+            status_code=404,
+            detail={
+                "mensagem": "Cidade não encontrada",
+                "cidades_cadastradas": cidades
+        }
+    )
+
+
+	
+    
     if cidade is None:
         imoveis_filtrados = imoveis
     else:
@@ -45,7 +59,22 @@ def listar_imoveis(
             if linha["cidade"] == cidade:
                 imoveis_filtrados.append(linha)
 
-    if ordem == "menor_preco":
+    if tipo is not None:
+        imoveis_por_tipo = []
+        for linha in imoveis_filtrados:
+            
+            if linha["tipo"] == tipo:
+                imoveis_por_tipo.append(linha)
+        imoveis_filtrados = imoveis_por_tipo
+
+
+
+    if ordem == "id":
+        imoveis_ordenados = sorted(
+            imoveis_filtrados,
+            key=lambda item: item["id"]
+    )
+    elif ordem == "menor_preco":
         imoveis_ordenados = sorted(
             imoveis_filtrados,
             key=lambda item: item["preco"]
