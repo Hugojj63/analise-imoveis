@@ -1,6 +1,6 @@
 import json
 from pathlib import Path
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 
 router = APIRouter()
 
@@ -12,17 +12,31 @@ def inicio():
 
 
 @router.get("/imoveis")
-def listar_imoveis(cidade=None):
+
+def listar_imoveis(cidade: str | None = None, pagina: int = 1, limite: int = 10):
+    if limite < 1 or pagina < 1:
+        raise HTTPException(
+            status_code=400,
+            detail="A página e o limite devem ser maiores que zero"
+    )
+    if limite > 100:
+        raise HTTPException(
+			status_code=400,
+			detail="O limite máximo é 100 imóveis por requisição"
+	)
+    
     imoveis_filtrados = []
 
     with open(CAMINHO_DADOS, "r", encoding="utf-8") as arquivo:
         imoveis = json.load(arquivo)
 
     if cidade is None:
-        return imoveis
+        imoveis_filtrados = imoveis
     else:
         for linha in imoveis:
             if linha["cidade"] == cidade:
                 imoveis_filtrados.append(linha)
 
-    return imoveis_filtrados
+    inicio = (pagina - 1) * limite
+    fim = inicio + limite
+    return imoveis_filtrados[inicio:fim]
