@@ -1,6 +1,7 @@
 
 import json
 from pathlib import Path
+from typing import Literal
 from fastapi import APIRouter, Query, HTTPException
 
 router = APIRouter()
@@ -27,7 +28,7 @@ def listar_imoveis(
         le=100,
         description="Quantidade de imóveis por página (de 1 a 100)"
     ),
-    ordem: str = Query(
+    ordem: Literal["menor_preco", "maior_preco"] = Query(
     default="menor_preco",
     description="Ordenação dos imóveis por preço"
 )
@@ -55,12 +56,7 @@ def listar_imoveis(
             key=lambda item: item["preco"],
             reverse=True
         )
-    else:
-        raise HTTPException(
-            status_code=400,
-            detail="Ordem inválida. Use menor_preco ou maior_preco."
-        )
-
+        
     inicio = (pagina - 1) * limite
     fim = inicio + limite
 
