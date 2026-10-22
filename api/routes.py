@@ -14,7 +14,7 @@ def inicio():
 
 
 @router.get("/imoveis")
-def listar_imoveis(cidade: str | None = None,pagina: int = Query(default=1, ge=1,description="A quantidade de paginas tem que ser maior que 0"),limite: int = Query(default=10,ge=1,le=100,description="Quantidade de imóveis por página (de 1 a 100)")):
+def listar_imoveis(cidade: str | None = None,pagina: int = Query(default=1, ge=1,description="Número da página, começando em 1"),limite: int = Query(default=10,ge=1,le=100,description="Quantidade de imóveis por página (de 1 a 100)")):
 
 
     imoveis_filtrados = []
