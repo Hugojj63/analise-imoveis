@@ -1,0 +1,10002 @@
+[
+  {
+    "id": 1,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 471000.0,
+    "area_m2": 111.4,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 2,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 168000.0,
+    "area_m2": 32.8,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 3,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 508000.0,
+    "area_m2": 134.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 4,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 490000.0,
+    "area_m2": 79.7,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 5,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 1653000.0,
+    "area_m2": 228.7,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 6,
+    "tipo": "Kitnet",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 181000.0,
+    "area_m2": 28.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 7,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 516000.0,
+    "area_m2": 135.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 8,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 563000.0,
+    "area_m2": 123.9,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 9,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 829000.0,
+    "area_m2": 134.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 10,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 548000.0,
+    "area_m2": 132.8,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 11,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 603000.0,
+    "area_m2": 185.3,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 12,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 1300000.0,
+    "area_m2": 248.3,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 13,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 479000.0,
+    "area_m2": 83.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 14,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 1495000.0,
+    "area_m2": 259.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 15,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 956000.0,
+    "area_m2": 148.4,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 16,
+    "tipo": "Kitnet",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 295000.0,
+    "area_m2": 41.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 17,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 196000.0,
+    "area_m2": 79.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 18,
+    "tipo": "Kitnet",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 124000.0,
+    "area_m2": 38.6,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 19,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 397000.0,
+    "area_m2": 143.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 20,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 684000.0,
+    "area_m2": 102.3,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 21,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 1073000.0,
+    "area_m2": 235.0,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 22,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 1214000.0,
+    "area_m2": 152.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 23,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 825000.0,
+    "area_m2": 182.1,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 24,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 400000.0,
+    "area_m2": 106.7,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 25,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 84000.0,
+    "area_m2": 29.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 26,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 429000.0,
+    "area_m2": 103.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 27,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 680000.0,
+    "area_m2": 152.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 28,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 989000.0,
+    "area_m2": 159.3,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 29,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 1110000.0,
+    "area_m2": 149.7,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 30,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 775000.0,
+    "area_m2": 149.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 31,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 1397000.0,
+    "area_m2": 259.9,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 32,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 348000.0,
+    "area_m2": 101.2,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 33,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 1813000.0,
+    "area_m2": 215.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 34,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 472000.0,
+    "area_m2": 115.8,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 35,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 454000.0,
+    "area_m2": 174.8,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 36,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 287000.0,
+    "area_m2": 75.6,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 37,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 169000.0,
+    "area_m2": 34.0,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 38,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 1070000.0,
+    "area_m2": 201.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 39,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 1379000.0,
+    "area_m2": 209.1,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 40,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 468000.0,
+    "area_m2": 104.9,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 41,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 839000.0,
+    "area_m2": 144.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 42,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 655000.0,
+    "area_m2": 112.3,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 43,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 661000.0,
+    "area_m2": 180.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 44,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 1178000.0,
+    "area_m2": 157.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 45,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 748000.0,
+    "area_m2": 154.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 46,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 385000.0,
+    "area_m2": 111.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 47,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 456000.0,
+    "area_m2": 154.9,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 48,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 691000.0,
+    "area_m2": 188.4,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 49,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 844000.0,
+    "area_m2": 169.8,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 50,
+    "tipo": "Kitnet",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 129000.0,
+    "area_m2": 39.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 51,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 309000.0,
+    "area_m2": 90.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 52,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 350000.0,
+    "area_m2": 62.9,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 53,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 886000.0,
+    "area_m2": 200.1,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 54,
+    "tipo": "Kitnet",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 139000.0,
+    "area_m2": 25.5,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 55,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 474000.0,
+    "area_m2": 82.9,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 56,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 726000.0,
+    "area_m2": 144.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 57,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 391000.0,
+    "area_m2": 173.2,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 58,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 229000.0,
+    "area_m2": 69.3,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 59,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 975000.0,
+    "area_m2": 129.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 60,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 443000.0,
+    "area_m2": 85.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 61,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 393000.0,
+    "area_m2": 98.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 62,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 718000.0,
+    "area_m2": 105.7,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 63,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 974000.0,
+    "area_m2": 191.1,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 64,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 384000.0,
+    "area_m2": 95.8,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 65,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 885000.0,
+    "area_m2": 123.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 66,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 92000.0,
+    "area_m2": 28.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 67,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 933000.0,
+    "area_m2": 251.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 68,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 765000.0,
+    "area_m2": 150.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 69,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 726000.0,
+    "area_m2": 149.9,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 70,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 409000.0,
+    "area_m2": 108.0,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 71,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 226000.0,
+    "area_m2": 63.6,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 72,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 302000.0,
+    "area_m2": 86.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 73,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 1474000.0,
+    "area_m2": 225.7,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 74,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 1656000.0,
+    "area_m2": 171.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 75,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 449000.0,
+    "area_m2": 69.5,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 76,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 1377000.0,
+    "area_m2": 207.5,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 77,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 447000.0,
+    "area_m2": 142.9,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 78,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 609000.0,
+    "area_m2": 79.3,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 79,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 941000.0,
+    "area_m2": 137.9,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 80,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 456000.0,
+    "area_m2": 127.1,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 81,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 891000.0,
+    "area_m2": 152.1,
+    "quartos": 2,
+    "banheiros": 4
+  },
+  {
+    "id": 82,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 1056000.0,
+    "area_m2": 179.5,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 83,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 828000.0,
+    "area_m2": 169.2,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 84,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 891000.0,
+    "area_m2": 196.6,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 85,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 570000.0,
+    "area_m2": 114.0,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 86,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 751000.0,
+    "area_m2": 141.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 87,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 998000.0,
+    "area_m2": 139.5,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 88,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 558000.0,
+    "area_m2": 153.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 89,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 584000.0,
+    "area_m2": 102.8,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 90,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 511000.0,
+    "area_m2": 93.2,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 91,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 458000.0,
+    "area_m2": 106.5,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 92,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 380000.0,
+    "area_m2": 126.2,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 93,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 373000.0,
+    "area_m2": 74.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 94,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 832000.0,
+    "area_m2": 148.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 95,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 1148000.0,
+    "area_m2": 172.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 96,
+    "tipo": "Kitnet",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 129000.0,
+    "area_m2": 32.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 97,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 303000.0,
+    "area_m2": 91.8,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 98,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 451000.0,
+    "area_m2": 47.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 99,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 618000.0,
+    "area_m2": 95.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 100,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 394000.0,
+    "area_m2": 127.1,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 101,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 312000.0,
+    "area_m2": 78.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 102,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 434000.0,
+    "area_m2": 85.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 103,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 258000.0,
+    "area_m2": 37.2,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 104,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 186000.0,
+    "area_m2": 71.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 105,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 452000.0,
+    "area_m2": 99.4,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 106,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 1082000.0,
+    "area_m2": 168.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 107,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 287000.0,
+    "area_m2": 101.1,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 108,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 805000.0,
+    "area_m2": 118.4,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 109,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 608000.0,
+    "area_m2": 171.3,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 110,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 993000.0,
+    "area_m2": 119.8,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 111,
+    "tipo": "Kitnet",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 115000.0,
+    "area_m2": 36.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 112,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 438000.0,
+    "area_m2": 95.2,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 113,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 356000.0,
+    "area_m2": 90.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 114,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 1130000.0,
+    "area_m2": 248.8,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 115,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 1664000.0,
+    "area_m2": 253.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 116,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 274000.0,
+    "area_m2": 56.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 117,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 488000.0,
+    "area_m2": 81.9,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 118,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 410000.0,
+    "area_m2": 75.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 119,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 864000.0,
+    "area_m2": 165.4,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 120,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 305000.0,
+    "area_m2": 101.3,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 121,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 989000.0,
+    "area_m2": 161.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 122,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 591000.0,
+    "area_m2": 143.7,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 123,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 675000.0,
+    "area_m2": 134.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 124,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 892000.0,
+    "area_m2": 199.8,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 125,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 1019000.0,
+    "area_m2": 152.0,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 126,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 195000.0,
+    "area_m2": 33.6,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 127,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 623000.0,
+    "area_m2": 97.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 128,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 967000.0,
+    "area_m2": 175.3,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 129,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 731000.0,
+    "area_m2": 119.9,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 130,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 765000.0,
+    "area_m2": 195.3,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 131,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 1210000.0,
+    "area_m2": 133.5,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 132,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 490000.0,
+    "area_m2": 84.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 133,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 1295000.0,
+    "area_m2": 233.5,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 134,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 412000.0,
+    "area_m2": 66.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 135,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 753000.0,
+    "area_m2": 145.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 136,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 272000.0,
+    "area_m2": 73.9,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 137,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 1146000.0,
+    "area_m2": 178.9,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 138,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 795000.0,
+    "area_m2": 132.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 139,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 258000.0,
+    "area_m2": 63.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 140,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 862000.0,
+    "area_m2": 165.3,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 141,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 140000.0,
+    "area_m2": 41.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 142,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 376000.0,
+    "area_m2": 121.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 143,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 306000.0,
+    "area_m2": 79.5,
+    "quartos": 1,
+    "banheiros": 3
+  },
+  {
+    "id": 144,
+    "tipo": "Kitnet",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 259000.0,
+    "area_m2": 39.7,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 145,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 750000.0,
+    "area_m2": 97.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 146,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 398000.0,
+    "area_m2": 102.9,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 147,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 661000.0,
+    "area_m2": 124.6,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 148,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 292000.0,
+    "area_m2": 62.6,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 149,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 534000.0,
+    "area_m2": 131.1,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 150,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 939000.0,
+    "area_m2": 166.5,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 151,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 295000.0,
+    "area_m2": 61.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 152,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 562000.0,
+    "area_m2": 176.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 153,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 366000.0,
+    "area_m2": 98.5,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 154,
+    "tipo": "Kitnet",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 295000.0,
+    "area_m2": 39.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 155,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 891000.0,
+    "area_m2": 151.6,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 156,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 1269000.0,
+    "area_m2": 256.7,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 157,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 453000.0,
+    "area_m2": 128.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 158,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 624000.0,
+    "area_m2": 141.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 159,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 638000.0,
+    "area_m2": 96.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 160,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 697000.0,
+    "area_m2": 174.5,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 161,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 797000.0,
+    "area_m2": 166.3,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 162,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 1589000.0,
+    "area_m2": 184.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 163,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 737000.0,
+    "area_m2": 120.0,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 164,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 650000.0,
+    "area_m2": 163.0,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 165,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 508000.0,
+    "area_m2": 119.1,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 166,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 305000.0,
+    "area_m2": 72.5,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 167,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 950000.0,
+    "area_m2": 251.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 168,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 596000.0,
+    "area_m2": 176.8,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 169,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 635000.0,
+    "area_m2": 153.8,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 170,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 1387000.0,
+    "area_m2": 150.7,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 171,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 480000.0,
+    "area_m2": 128.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 172,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 269000.0,
+    "area_m2": 92.2,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 173,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 425000.0,
+    "area_m2": 163.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 174,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 439000.0,
+    "area_m2": 114.3,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 175,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 309000.0,
+    "area_m2": 69.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 176,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 288000.0,
+    "area_m2": 45.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 177,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 533000.0,
+    "area_m2": 136.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 178,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 330000.0,
+    "area_m2": 72.0,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 179,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 268000.0,
+    "area_m2": 63.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 180,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 516000.0,
+    "area_m2": 97.9,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 181,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 902000.0,
+    "area_m2": 138.0,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 182,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 1100000.0,
+    "area_m2": 228.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 183,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 388000.0,
+    "area_m2": 61.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 184,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 621000.0,
+    "area_m2": 119.2,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 185,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 443000.0,
+    "area_m2": 95.4,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 186,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 741000.0,
+    "area_m2": 113.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 187,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 594000.0,
+    "area_m2": 162.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 188,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 266000.0,
+    "area_m2": 81.5,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 189,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 1079000.0,
+    "area_m2": 232.2,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 190,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 832000.0,
+    "area_m2": 151.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 191,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 468000.0,
+    "area_m2": 151.3,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 192,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 805000.0,
+    "area_m2": 200.1,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 193,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 378000.0,
+    "area_m2": 125.0,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 194,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 326000.0,
+    "area_m2": 74.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 195,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 898000.0,
+    "area_m2": 174.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 196,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 827000.0,
+    "area_m2": 200.3,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 197,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 867000.0,
+    "area_m2": 154.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 198,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 116000.0,
+    "area_m2": 30.8,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 199,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 259000.0,
+    "area_m2": 83.2,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 200,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 526000.0,
+    "area_m2": 161.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 201,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 446000.0,
+    "area_m2": 90.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 202,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 535000.0,
+    "area_m2": 142.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 203,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 957000.0,
+    "area_m2": 249.2,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 204,
+    "tipo": "Kitnet",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 172000.0,
+    "area_m2": 40.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 205,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 1154000.0,
+    "area_m2": 160.9,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 206,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 681000.0,
+    "area_m2": 87.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 207,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 1168000.0,
+    "area_m2": 202.1,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 208,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 217000.0,
+    "area_m2": 71.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 209,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 251000.0,
+    "area_m2": 48.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 210,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 182000.0,
+    "area_m2": 28.8,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 211,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 418000.0,
+    "area_m2": 114.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 212,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 993000.0,
+    "area_m2": 226.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 213,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 360000.0,
+    "area_m2": 72.3,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 214,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 505000.0,
+    "area_m2": 82.8,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 215,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 470000.0,
+    "area_m2": 151.4,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 216,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 716000.0,
+    "area_m2": 80.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 217,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 600000.0,
+    "area_m2": 127.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 218,
+    "tipo": "Kitnet",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 103000.0,
+    "area_m2": 30.9,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 219,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 298000.0,
+    "area_m2": 96.3,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 220,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 1156000.0,
+    "area_m2": 222.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 221,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 438000.0,
+    "area_m2": 72.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 222,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 919000.0,
+    "area_m2": 164.0,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 223,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 467000.0,
+    "area_m2": 145.5,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 224,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 299000.0,
+    "area_m2": 76.8,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 225,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 778000.0,
+    "area_m2": 146.0,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 226,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 1126000.0,
+    "area_m2": 255.9,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 227,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 898000.0,
+    "area_m2": 170.3,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 228,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 677000.0,
+    "area_m2": 103.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 229,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 1318000.0,
+    "area_m2": 172.2,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 230,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 891000.0,
+    "area_m2": 188.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 231,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 314000.0,
+    "area_m2": 83.3,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 232,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 527000.0,
+    "area_m2": 179.8,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 233,
+    "tipo": "Kitnet",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 293000.0,
+    "area_m2": 39.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 234,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 341000.0,
+    "area_m2": 111.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 235,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 314000.0,
+    "area_m2": 105.3,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 236,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 556000.0,
+    "area_m2": 172.3,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 237,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 1931000.0,
+    "area_m2": 259.9,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 238,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 480000.0,
+    "area_m2": 120.0,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 239,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 370000.0,
+    "area_m2": 55.7,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 240,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 404000.0,
+    "area_m2": 74.2,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 241,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 294000.0,
+    "area_m2": 103.8,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 242,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 399000.0,
+    "area_m2": 104.4,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 243,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 364000.0,
+    "area_m2": 152.4,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 244,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 632000.0,
+    "area_m2": 144.6,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 245,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 297000.0,
+    "area_m2": 73.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 246,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 251000.0,
+    "area_m2": 52.0,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 247,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 450000.0,
+    "area_m2": 114.5,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 248,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 327000.0,
+    "area_m2": 76.5,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 249,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 1061000.0,
+    "area_m2": 133.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 250,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 1073000.0,
+    "area_m2": 176.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 251,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 678000.0,
+    "area_m2": 142.1,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 252,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 225000.0,
+    "area_m2": 35.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 253,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 166000.0,
+    "area_m2": 56.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 254,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 662000.0,
+    "area_m2": 137.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 255,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 1201000.0,
+    "area_m2": 144.2,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 256,
+    "tipo": "Kitnet",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 193000.0,
+    "area_m2": 28.6,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 257,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 507000.0,
+    "area_m2": 159.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 258,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 384000.0,
+    "area_m2": 50.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 259,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 843000.0,
+    "area_m2": 181.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 260,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 398000.0,
+    "area_m2": 73.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 261,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 760000.0,
+    "area_m2": 138.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 262,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 564000.0,
+    "area_m2": 116.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 263,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 376000.0,
+    "area_m2": 102.5,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 264,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 561000.0,
+    "area_m2": 90.8,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 265,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 589000.0,
+    "area_m2": 106.8,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 266,
+    "tipo": "Kitnet",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 192000.0,
+    "area_m2": 30.4,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 267,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 190000.0,
+    "area_m2": 57.2,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 268,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 770000.0,
+    "area_m2": 132.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 269,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 577000.0,
+    "area_m2": 172.6,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 270,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 501000.0,
+    "area_m2": 114.0,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 271,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 835000.0,
+    "area_m2": 224.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 272,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 716000.0,
+    "area_m2": 192.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 273,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 254000.0,
+    "area_m2": 43.3,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 274,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 967000.0,
+    "area_m2": 161.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 275,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 239000.0,
+    "area_m2": 67.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 276,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 479000.0,
+    "area_m2": 92.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 277,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 595000.0,
+    "area_m2": 208.5,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 278,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 1046000.0,
+    "area_m2": 169.1,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 279,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 445000.0,
+    "area_m2": 85.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 280,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 596000.0,
+    "area_m2": 126.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 281,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 289000.0,
+    "area_m2": 57.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 282,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 771000.0,
+    "area_m2": 192.2,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 283,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 351000.0,
+    "area_m2": 103.3,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 284,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 459000.0,
+    "area_m2": 128.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 285,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 958000.0,
+    "area_m2": 168.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 286,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 354000.0,
+    "area_m2": 100.3,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 287,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 598000.0,
+    "area_m2": 111.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 288,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 593000.0,
+    "area_m2": 118.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 289,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 299000.0,
+    "area_m2": 82.4,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 290,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 1075000.0,
+    "area_m2": 230.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 291,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 616000.0,
+    "area_m2": 134.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 292,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 479000.0,
+    "area_m2": 130.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 293,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 360000.0,
+    "area_m2": 34.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 294,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 1182000.0,
+    "area_m2": 138.8,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 295,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 782000.0,
+    "area_m2": 237.7,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 296,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 596000.0,
+    "area_m2": 80.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 297,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 830000.0,
+    "area_m2": 182.2,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 298,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 699000.0,
+    "area_m2": 103.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 299,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 933000.0,
+    "area_m2": 190.3,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 300,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 955000.0,
+    "area_m2": 176.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 301,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 189000.0,
+    "area_m2": 63.6,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 302,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 1180000.0,
+    "area_m2": 242.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 303,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 323000.0,
+    "area_m2": 84.4,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 304,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 927000.0,
+    "area_m2": 92.9,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 305,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 298000.0,
+    "area_m2": 76.4,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 306,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 386000.0,
+    "area_m2": 101.2,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 307,
+    "tipo": "Kitnet",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 202000.0,
+    "area_m2": 33.0,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 308,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 982000.0,
+    "area_m2": 168.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 309,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 579000.0,
+    "area_m2": 193.1,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 310,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 431000.0,
+    "area_m2": 160.2,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 311,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 820000.0,
+    "area_m2": 142.7,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 312,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 719000.0,
+    "area_m2": 145.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 313,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 555000.0,
+    "area_m2": 103.6,
+    "quartos": 1,
+    "banheiros": 3
+  },
+  {
+    "id": 314,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 450000.0,
+    "area_m2": 139.9,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 315,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 643000.0,
+    "area_m2": 154.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 316,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 920000.0,
+    "area_m2": 127.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 317,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 635000.0,
+    "area_m2": 139.4,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 318,
+    "tipo": "Kitnet",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 294000.0,
+    "area_m2": 43.8,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 319,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 771000.0,
+    "area_m2": 90.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 320,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 671000.0,
+    "area_m2": 84.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 321,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 923000.0,
+    "area_m2": 164.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 322,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 1180000.0,
+    "area_m2": 221.7,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 323,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 405000.0,
+    "area_m2": 64.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 324,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 500000.0,
+    "area_m2": 138.2,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 325,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 619000.0,
+    "area_m2": 158.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 326,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 211000.0,
+    "area_m2": 56.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 327,
+    "tipo": "Kitnet",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 353000.0,
+    "area_m2": 44.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 328,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 1001000.0,
+    "area_m2": 172.3,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 329,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 495000.0,
+    "area_m2": 152.3,
+    "quartos": 2,
+    "banheiros": 4
+  },
+  {
+    "id": 330,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 757000.0,
+    "area_m2": 223.2,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 331,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 661000.0,
+    "area_m2": 157.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 332,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 502000.0,
+    "area_m2": 132.8,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 333,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 461000.0,
+    "area_m2": 70.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 334,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 847000.0,
+    "area_m2": 147.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 335,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 682000.0,
+    "area_m2": 175.1,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 336,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 427000.0,
+    "area_m2": 86.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 337,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 208000.0,
+    "area_m2": 56.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 338,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 358000.0,
+    "area_m2": 147.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 339,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 674000.0,
+    "area_m2": 177.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 340,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 647000.0,
+    "area_m2": 113.0,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 341,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 289000.0,
+    "area_m2": 110.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 342,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 1184000.0,
+    "area_m2": 215.4,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 343,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 356000.0,
+    "area_m2": 48.6,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 344,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 570000.0,
+    "area_m2": 93.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 345,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 670000.0,
+    "area_m2": 133.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 346,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 578000.0,
+    "area_m2": 124.2,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 347,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 825000.0,
+    "area_m2": 246.1,
+    "quartos": 2,
+    "banheiros": 4
+  },
+  {
+    "id": 348,
+    "tipo": "Kitnet",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 147000.0,
+    "area_m2": 30.5,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 349,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 1013000.0,
+    "area_m2": 188.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 350,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 954000.0,
+    "area_m2": 136.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 351,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 561000.0,
+    "area_m2": 168.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 352,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 1052000.0,
+    "area_m2": 167.0,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 353,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 1278000.0,
+    "area_m2": 256.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 354,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 546000.0,
+    "area_m2": 108.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 355,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 410000.0,
+    "area_m2": 87.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 356,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 518000.0,
+    "area_m2": 72.9,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 357,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 401000.0,
+    "area_m2": 125.3,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 358,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 825000.0,
+    "area_m2": 96.8,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 359,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 729000.0,
+    "area_m2": 130.9,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 360,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 639000.0,
+    "area_m2": 169.8,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 361,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 335000.0,
+    "area_m2": 93.7,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 362,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 993000.0,
+    "area_m2": 199.5,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 363,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 520000.0,
+    "area_m2": 109.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 364,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 589000.0,
+    "area_m2": 125.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 365,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 646000.0,
+    "area_m2": 160.7,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 366,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 315000.0,
+    "area_m2": 75.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 367,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 718000.0,
+    "area_m2": 177.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 368,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 459000.0,
+    "area_m2": 102.4,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 369,
+    "tipo": "Kitnet",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 219000.0,
+    "area_m2": 31.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 370,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 340000.0,
+    "area_m2": 102.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 371,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 235000.0,
+    "area_m2": 61.5,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 372,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 327000.0,
+    "area_m2": 45.2,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 373,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 487000.0,
+    "area_m2": 71.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 374,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 1995000.0,
+    "area_m2": 259.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 375,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 313000.0,
+    "area_m2": 64.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 376,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 191000.0,
+    "area_m2": 83.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 377,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 626000.0,
+    "area_m2": 165.4,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 378,
+    "tipo": "Kitnet",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 297000.0,
+    "area_m2": 36.3,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 379,
+    "tipo": "Kitnet",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 327000.0,
+    "area_m2": 41.4,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 380,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 743000.0,
+    "area_m2": 153.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 381,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 493000.0,
+    "area_m2": 85.0,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 382,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 973000.0,
+    "area_m2": 161.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 383,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 263000.0,
+    "area_m2": 97.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 384,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 722000.0,
+    "area_m2": 143.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 385,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 728000.0,
+    "area_m2": 114.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 386,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 1702000.0,
+    "area_m2": 215.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 387,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 813000.0,
+    "area_m2": 251.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 388,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 711000.0,
+    "area_m2": 246.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 389,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 795000.0,
+    "area_m2": 183.2,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 390,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 1064000.0,
+    "area_m2": 152.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 391,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 740000.0,
+    "area_m2": 152.2,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 392,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 1640000.0,
+    "area_m2": 204.8,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 393,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 476000.0,
+    "area_m2": 142.5,
+    "quartos": 1,
+    "banheiros": 3
+  },
+  {
+    "id": 394,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 302000.0,
+    "area_m2": 52.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 395,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 417000.0,
+    "area_m2": 78.4,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 396,
+    "tipo": "Kitnet",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 132000.0,
+    "area_m2": 26.5,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 397,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 1000000.0,
+    "area_m2": 119.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 398,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 742000.0,
+    "area_m2": 179.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 399,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 570000.0,
+    "area_m2": 104.4,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 400,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 480000.0,
+    "area_m2": 85.5,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 401,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 469000.0,
+    "area_m2": 173.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 402,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 346000.0,
+    "area_m2": 67.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 403,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 290000.0,
+    "area_m2": 89.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 404,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 1253000.0,
+    "area_m2": 243.8,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 405,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 445000.0,
+    "area_m2": 144.7,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 406,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 821000.0,
+    "area_m2": 120.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 407,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 987000.0,
+    "area_m2": 134.6,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 408,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 396000.0,
+    "area_m2": 81.0,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 409,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 722000.0,
+    "area_m2": 107.2,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 410,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 525000.0,
+    "area_m2": 82.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 411,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 479000.0,
+    "area_m2": 169.5,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 412,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 1091000.0,
+    "area_m2": 129.6,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 413,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 818000.0,
+    "area_m2": 105.9,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 414,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 770000.0,
+    "area_m2": 193.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 415,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 773000.0,
+    "area_m2": 150.3,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 416,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 418000.0,
+    "area_m2": 96.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 417,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 784000.0,
+    "area_m2": 103.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 418,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 735000.0,
+    "area_m2": 139.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 419,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 757000.0,
+    "area_m2": 189.7,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 420,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 658000.0,
+    "area_m2": 174.1,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 421,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 1286000.0,
+    "area_m2": 145.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 422,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 552000.0,
+    "area_m2": 124.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 423,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 467000.0,
+    "area_m2": 108.5,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 424,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 505000.0,
+    "area_m2": 110.8,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 425,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 360000.0,
+    "area_m2": 88.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 426,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 519000.0,
+    "area_m2": 109.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 427,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 1188000.0,
+    "area_m2": 230.6,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 428,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 348000.0,
+    "area_m2": 67.5,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 429,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 224000.0,
+    "area_m2": 75.9,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 430,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 361000.0,
+    "area_m2": 137.1,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 431,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 355000.0,
+    "area_m2": 76.6,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 432,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 803000.0,
+    "area_m2": 193.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 433,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 630000.0,
+    "area_m2": 138.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 434,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 570000.0,
+    "area_m2": 107.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 435,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 310000.0,
+    "area_m2": 103.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 436,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 1014000.0,
+    "area_m2": 125.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 437,
+    "tipo": "Kitnet",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 205000.0,
+    "area_m2": 39.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 438,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 600000.0,
+    "area_m2": 142.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 439,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 816000.0,
+    "area_m2": 185.7,
+    "quartos": 2,
+    "banheiros": 4
+  },
+  {
+    "id": 440,
+    "tipo": "Kitnet",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 85000.0,
+    "area_m2": 20.7,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 441,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 679000.0,
+    "area_m2": 172.1,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 442,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 531000.0,
+    "area_m2": 120.2,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 443,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 826000.0,
+    "area_m2": 152.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 444,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 175000.0,
+    "area_m2": 62.8,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 445,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 618000.0,
+    "area_m2": 180.9,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 446,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 1050000.0,
+    "area_m2": 175.3,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 447,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 951000.0,
+    "area_m2": 248.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 448,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 386000.0,
+    "area_m2": 94.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 449,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 750000.0,
+    "area_m2": 175.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 450,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 1205000.0,
+    "area_m2": 172.2,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 451,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 530000.0,
+    "area_m2": 120.2,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 452,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 897000.0,
+    "area_m2": 207.8,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 453,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 386000.0,
+    "area_m2": 68.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 454,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 810000.0,
+    "area_m2": 144.8,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 455,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 277000.0,
+    "area_m2": 43.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 456,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 218000.0,
+    "area_m2": 70.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 457,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 1973000.0,
+    "area_m2": 237.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 458,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 1211000.0,
+    "area_m2": 121.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 459,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 284000.0,
+    "area_m2": 89.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 460,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 334000.0,
+    "area_m2": 73.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 461,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 292000.0,
+    "area_m2": 55.8,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 462,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 450000.0,
+    "area_m2": 97.4,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 463,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 805000.0,
+    "area_m2": 99.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 464,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 597000.0,
+    "area_m2": 133.2,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 465,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 489000.0,
+    "area_m2": 152.5,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 466,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 315000.0,
+    "area_m2": 129.2,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 467,
+    "tipo": "Kitnet",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 236000.0,
+    "area_m2": 36.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 468,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 590000.0,
+    "area_m2": 135.9,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 469,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 1163000.0,
+    "area_m2": 210.2,
+    "quartos": 2,
+    "banheiros": 4
+  },
+  {
+    "id": 470,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 372000.0,
+    "area_m2": 71.1,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 471,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 895000.0,
+    "area_m2": 241.7,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 472,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 842000.0,
+    "area_m2": 145.6,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 473,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 472000.0,
+    "area_m2": 85.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 474,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 269000.0,
+    "area_m2": 43.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 475,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 589000.0,
+    "area_m2": 154.5,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 476,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 554000.0,
+    "area_m2": 133.4,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 477,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 1048000.0,
+    "area_m2": 168.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 478,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 947000.0,
+    "area_m2": 155.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 479,
+    "tipo": "Kitnet",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 128000.0,
+    "area_m2": 30.0,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 480,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 568000.0,
+    "area_m2": 98.3,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 481,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 195000.0,
+    "area_m2": 52.2,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 482,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 554000.0,
+    "area_m2": 234.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 483,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 560000.0,
+    "area_m2": 69.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 484,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 917000.0,
+    "area_m2": 155.2,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 485,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 579000.0,
+    "area_m2": 226.7,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 486,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 1057000.0,
+    "area_m2": 230.0,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 487,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 699000.0,
+    "area_m2": 138.9,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 488,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 829000.0,
+    "area_m2": 165.3,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 489,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 455000.0,
+    "area_m2": 85.2,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 490,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 165000.0,
+    "area_m2": 29.1,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 491,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 341000.0,
+    "area_m2": 77.2,
+    "quartos": 2,
+    "banheiros": 4
+  },
+  {
+    "id": 492,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 964000.0,
+    "area_m2": 172.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 493,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 935000.0,
+    "area_m2": 189.4,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 494,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 708000.0,
+    "area_m2": 179.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 495,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 1189000.0,
+    "area_m2": 201.2,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 496,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 493000.0,
+    "area_m2": 156.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 497,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 475000.0,
+    "area_m2": 108.0,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 498,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 251000.0,
+    "area_m2": 61.8,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 499,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 700000.0,
+    "area_m2": 115.3,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 500,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 277000.0,
+    "area_m2": 57.6,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 501,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 616000.0,
+    "area_m2": 88.4,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 502,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 1060000.0,
+    "area_m2": 201.7,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 503,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 99000.0,
+    "area_m2": 28.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 504,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 670000.0,
+    "area_m2": 146.5,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 505,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 173000.0,
+    "area_m2": 62.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 506,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 1043000.0,
+    "area_m2": 193.7,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 507,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 789000.0,
+    "area_m2": 133.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 508,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 686000.0,
+    "area_m2": 107.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 509,
+    "tipo": "Kitnet",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 119000.0,
+    "area_m2": 31.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 510,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 1039000.0,
+    "area_m2": 204.1,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 511,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 610000.0,
+    "area_m2": 188.4,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 512,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 100000.0,
+    "area_m2": 35.3,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 513,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 249000.0,
+    "area_m2": 46.8,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 514,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 764000.0,
+    "area_m2": 190.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 515,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 236000.0,
+    "area_m2": 81.3,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 516,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 431000.0,
+    "area_m2": 95.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 517,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 318000.0,
+    "area_m2": 63.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 518,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 1019000.0,
+    "area_m2": 192.7,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 519,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 216000.0,
+    "area_m2": 39.4,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 520,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 402000.0,
+    "area_m2": 65.3,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 521,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 143000.0,
+    "area_m2": 45.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 522,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 1171000.0,
+    "area_m2": 238.4,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 523,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 572000.0,
+    "area_m2": 137.2,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 524,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 513000.0,
+    "area_m2": 149.1,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 525,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 413000.0,
+    "area_m2": 117.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 526,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 1203000.0,
+    "area_m2": 159.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 527,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 553000.0,
+    "area_m2": 139.3,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 528,
+    "tipo": "Kitnet",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 174000.0,
+    "area_m2": 36.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 529,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 681000.0,
+    "area_m2": 138.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 530,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 690000.0,
+    "area_m2": 160.0,
+    "quartos": 2,
+    "banheiros": 4
+  },
+  {
+    "id": 531,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 528000.0,
+    "area_m2": 76.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 532,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 585000.0,
+    "area_m2": 85.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 533,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 749000.0,
+    "area_m2": 157.2,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 534,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 302000.0,
+    "area_m2": 33.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 535,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 544000.0,
+    "area_m2": 152.2,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 536,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 870000.0,
+    "area_m2": 116.5,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 537,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 1249000.0,
+    "area_m2": 210.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 538,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 506000.0,
+    "area_m2": 134.7,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 539,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 601000.0,
+    "area_m2": 180.2,
+    "quartos": 2,
+    "banheiros": 4
+  },
+  {
+    "id": 540,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 324000.0,
+    "area_m2": 44.4,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 541,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 307000.0,
+    "area_m2": 96.5,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 542,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 196000.0,
+    "area_m2": 35.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 543,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 290000.0,
+    "area_m2": 54.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 544,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 499000.0,
+    "area_m2": 86.5,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 545,
+    "tipo": "Kitnet",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 184000.0,
+    "area_m2": 44.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 546,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 775000.0,
+    "area_m2": 149.9,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 547,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 565000.0,
+    "area_m2": 201.4,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 548,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 508000.0,
+    "area_m2": 133.5,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 549,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 859000.0,
+    "area_m2": 163.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 550,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 622000.0,
+    "area_m2": 84.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 551,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 181000.0,
+    "area_m2": 50.3,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 552,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 613000.0,
+    "area_m2": 147.8,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 553,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 762000.0,
+    "area_m2": 159.7,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 554,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 1584000.0,
+    "area_m2": 251.1,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 555,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 1076000.0,
+    "area_m2": 233.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 556,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 685000.0,
+    "area_m2": 111.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 557,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 911000.0,
+    "area_m2": 194.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 558,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 497000.0,
+    "area_m2": 112.6,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 559,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 171000.0,
+    "area_m2": 51.5,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 560,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 422000.0,
+    "area_m2": 115.0,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 561,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 658000.0,
+    "area_m2": 147.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 562,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 1118000.0,
+    "area_m2": 167.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 563,
+    "tipo": "Kitnet",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 122000.0,
+    "area_m2": 40.2,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 564,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 1016000.0,
+    "area_m2": 165.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 565,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 956000.0,
+    "area_m2": 218.2,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 566,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 858000.0,
+    "area_m2": 105.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 567,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 355000.0,
+    "area_m2": 74.7,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 568,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 871000.0,
+    "area_m2": 184.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 569,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 1092000.0,
+    "area_m2": 201.2,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 570,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 883000.0,
+    "area_m2": 202.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 571,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 989000.0,
+    "area_m2": 223.4,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 572,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 757000.0,
+    "area_m2": 134.8,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 573,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 351000.0,
+    "area_m2": 39.0,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 574,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 1114000.0,
+    "area_m2": 211.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 575,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 285000.0,
+    "area_m2": 48.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 576,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 981000.0,
+    "area_m2": 236.8,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 577,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 468000.0,
+    "area_m2": 56.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 578,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 1026000.0,
+    "area_m2": 165.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 579,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 287000.0,
+    "area_m2": 100.3,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 580,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 900000.0,
+    "area_m2": 209.5,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 581,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 387000.0,
+    "area_m2": 95.5,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 582,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 641000.0,
+    "area_m2": 182.0,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 583,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 337000.0,
+    "area_m2": 51.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 584,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 716000.0,
+    "area_m2": 216.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 585,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 535000.0,
+    "area_m2": 78.4,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 586,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 586000.0,
+    "area_m2": 179.4,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 587,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 547000.0,
+    "area_m2": 236.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 588,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 391000.0,
+    "area_m2": 154.7,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 589,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 655000.0,
+    "area_m2": 148.6,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 590,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 360000.0,
+    "area_m2": 157.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 591,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 738000.0,
+    "area_m2": 143.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 592,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 471000.0,
+    "area_m2": 101.5,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 593,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 339000.0,
+    "area_m2": 63.8,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 594,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 491000.0,
+    "area_m2": 71.2,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 595,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 460000.0,
+    "area_m2": 105.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 596,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 1158000.0,
+    "area_m2": 155.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 597,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 999000.0,
+    "area_m2": 232.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 598,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 204000.0,
+    "area_m2": 63.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 599,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 631000.0,
+    "area_m2": 152.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 600,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 668000.0,
+    "area_m2": 100.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 601,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 964000.0,
+    "area_m2": 176.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 602,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 1402000.0,
+    "area_m2": 244.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 603,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 522000.0,
+    "area_m2": 177.8,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 604,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 470000.0,
+    "area_m2": 91.4,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 605,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 319000.0,
+    "area_m2": 68.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 606,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 690000.0,
+    "area_m2": 134.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 607,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 710000.0,
+    "area_m2": 158.9,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 608,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 429000.0,
+    "area_m2": 190.2,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 609,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 281000.0,
+    "area_m2": 84.3,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 610,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 1107000.0,
+    "area_m2": 219.9,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 611,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 1086000.0,
+    "area_m2": 212.0,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 612,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 225000.0,
+    "area_m2": 56.1,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 613,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 253000.0,
+    "area_m2": 97.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 614,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 1108000.0,
+    "area_m2": 164.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 615,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 867000.0,
+    "area_m2": 147.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 616,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 1058000.0,
+    "area_m2": 145.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 617,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 881000.0,
+    "area_m2": 134.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 618,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 813000.0,
+    "area_m2": 132.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 619,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 759000.0,
+    "area_m2": 119.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 620,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 645000.0,
+    "area_m2": 169.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 621,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 595000.0,
+    "area_m2": 192.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 622,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 871000.0,
+    "area_m2": 215.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 623,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 562000.0,
+    "area_m2": 189.3,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 624,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 594000.0,
+    "area_m2": 89.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 625,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 1038000.0,
+    "area_m2": 113.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 626,
+    "tipo": "Kitnet",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 95000.0,
+    "area_m2": 30.3,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 627,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 365000.0,
+    "area_m2": 112.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 628,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 1095000.0,
+    "area_m2": 191.0,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 629,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 648000.0,
+    "area_m2": 143.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 630,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 237000.0,
+    "area_m2": 67.2,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 631,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 580000.0,
+    "area_m2": 128.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 632,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 662000.0,
+    "area_m2": 136.8,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 633,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 495000.0,
+    "area_m2": 99.8,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 634,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 237000.0,
+    "area_m2": 63.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 635,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 1223000.0,
+    "area_m2": 214.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 636,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 686000.0,
+    "area_m2": 110.3,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 637,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 755000.0,
+    "area_m2": 177.6,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 638,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 864000.0,
+    "area_m2": 218.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 639,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 148000.0,
+    "area_m2": 46.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 640,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 204000.0,
+    "area_m2": 75.7,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 641,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 1086000.0,
+    "area_m2": 251.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 642,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 914000.0,
+    "area_m2": 137.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 643,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 883000.0,
+    "area_m2": 176.7,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 644,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 720000.0,
+    "area_m2": 179.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 645,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 487000.0,
+    "area_m2": 76.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 646,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 690000.0,
+    "area_m2": 88.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 647,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 618000.0,
+    "area_m2": 67.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 648,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 478000.0,
+    "area_m2": 81.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 649,
+    "tipo": "Kitnet",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 122000.0,
+    "area_m2": 25.7,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 650,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 336000.0,
+    "area_m2": 124.1,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 651,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 372000.0,
+    "area_m2": 121.1,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 652,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 795000.0,
+    "area_m2": 188.9,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 653,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 791000.0,
+    "area_m2": 107.2,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 654,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 589000.0,
+    "area_m2": 170.9,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 655,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 1294000.0,
+    "area_m2": 235.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 656,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 438000.0,
+    "area_m2": 86.8,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 657,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 136000.0,
+    "area_m2": 47.2,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 658,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 692000.0,
+    "area_m2": 137.4,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 659,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 767000.0,
+    "area_m2": 177.5,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 660,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 484000.0,
+    "area_m2": 139.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 661,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 186000.0,
+    "area_m2": 57.2,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 662,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 600000.0,
+    "area_m2": 132.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 663,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 1121000.0,
+    "area_m2": 149.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 664,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 724000.0,
+    "area_m2": 201.6,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 665,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 896000.0,
+    "area_m2": 106.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 666,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 371000.0,
+    "area_m2": 108.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 667,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 603000.0,
+    "area_m2": 148.3,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 668,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 954000.0,
+    "area_m2": 253.8,
+    "quartos": 2,
+    "banheiros": 4
+  },
+  {
+    "id": 669,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 266000.0,
+    "area_m2": 63.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 670,
+    "tipo": "Kitnet",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 156000.0,
+    "area_m2": 30.5,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 671,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 743000.0,
+    "area_m2": 135.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 672,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 498000.0,
+    "area_m2": 83.9,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 673,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 190000.0,
+    "area_m2": 33.1,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 674,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 1234000.0,
+    "area_m2": 252.0,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 675,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 896000.0,
+    "area_m2": 185.9,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 676,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 632000.0,
+    "area_m2": 144.0,
+    "quartos": 1,
+    "banheiros": 3
+  },
+  {
+    "id": 677,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 325000.0,
+    "area_m2": 63.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 678,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 1021000.0,
+    "area_m2": 157.5,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 679,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 467000.0,
+    "area_m2": 187.1,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 680,
+    "tipo": "Kitnet",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 258000.0,
+    "area_m2": 39.3,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 681,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 379000.0,
+    "area_m2": 132.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 682,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 502000.0,
+    "area_m2": 110.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 683,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 657000.0,
+    "area_m2": 225.4,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 684,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 499000.0,
+    "area_m2": 109.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 685,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 678000.0,
+    "area_m2": 161.1,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 686,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 959000.0,
+    "area_m2": 195.1,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 687,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 524000.0,
+    "area_m2": 162.3,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 688,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 515000.0,
+    "area_m2": 94.3,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 689,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 644000.0,
+    "area_m2": 100.2,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 690,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 660000.0,
+    "area_m2": 194.0,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 691,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 742000.0,
+    "area_m2": 188.1,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 692,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 198000.0,
+    "area_m2": 77.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 693,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 536000.0,
+    "area_m2": 94.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 694,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 798000.0,
+    "area_m2": 144.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 695,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 307000.0,
+    "area_m2": 92.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 696,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 1089000.0,
+    "area_m2": 204.9,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 697,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 510000.0,
+    "area_m2": 115.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 698,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 350000.0,
+    "area_m2": 147.7,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 699,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 541000.0,
+    "area_m2": 82.7,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 700,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 957000.0,
+    "area_m2": 223.5,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 701,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 785000.0,
+    "area_m2": 149.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 702,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 362000.0,
+    "area_m2": 116.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 703,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 416000.0,
+    "area_m2": 54.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 704,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 1814000.0,
+    "area_m2": 220.7,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 705,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 785000.0,
+    "area_m2": 132.3,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 706,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 457000.0,
+    "area_m2": 124.1,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 707,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 1112000.0,
+    "area_m2": 198.0,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 708,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 347000.0,
+    "area_m2": 114.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 709,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 374000.0,
+    "area_m2": 67.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 710,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 549000.0,
+    "area_m2": 102.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 711,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 429000.0,
+    "area_m2": 109.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 712,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 338000.0,
+    "area_m2": 80.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 713,
+    "tipo": "Kitnet",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 196000.0,
+    "area_m2": 34.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 714,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 1113000.0,
+    "area_m2": 222.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 715,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 603000.0,
+    "area_m2": 64.9,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 716,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 870000.0,
+    "area_m2": 219.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 717,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 714000.0,
+    "area_m2": 162.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 718,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 614000.0,
+    "area_m2": 240.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 719,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 700000.0,
+    "area_m2": 150.3,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 720,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 203000.0,
+    "area_m2": 68.0,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 721,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 519000.0,
+    "area_m2": 140.1,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 722,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 1395000.0,
+    "area_m2": 244.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 723,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 838000.0,
+    "area_m2": 82.0,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 724,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 521000.0,
+    "area_m2": 161.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 725,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 590000.0,
+    "area_m2": 125.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 726,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 590000.0,
+    "area_m2": 115.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 727,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 517000.0,
+    "area_m2": 83.4,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 728,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 721000.0,
+    "area_m2": 131.7,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 729,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 562000.0,
+    "area_m2": 169.3,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 730,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 749000.0,
+    "area_m2": 161.8,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 731,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 487000.0,
+    "area_m2": 93.5,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 732,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 331000.0,
+    "area_m2": 121.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 733,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 1006000.0,
+    "area_m2": 228.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 734,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 420000.0,
+    "area_m2": 52.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 735,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 644000.0,
+    "area_m2": 192.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 736,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 1117000.0,
+    "area_m2": 159.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 737,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 425000.0,
+    "area_m2": 87.9,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 738,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 607000.0,
+    "area_m2": 96.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 739,
+    "tipo": "Kitnet",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 118000.0,
+    "area_m2": 19.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 740,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 797000.0,
+    "area_m2": 136.6,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 741,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 263000.0,
+    "area_m2": 36.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 742,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 298000.0,
+    "area_m2": 45.2,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 743,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 558000.0,
+    "area_m2": 96.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 744,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 354000.0,
+    "area_m2": 121.4,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 745,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 865000.0,
+    "area_m2": 199.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 746,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 516000.0,
+    "area_m2": 133.0,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 747,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 260000.0,
+    "area_m2": 84.6,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 748,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 194000.0,
+    "area_m2": 92.0,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 749,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 1162000.0,
+    "area_m2": 158.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 750,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 532000.0,
+    "area_m2": 100.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 751,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 550000.0,
+    "area_m2": 183.9,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 752,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 1149000.0,
+    "area_m2": 230.0,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 753,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 1777000.0,
+    "area_m2": 258.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 754,
+    "tipo": "Kitnet",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 112000.0,
+    "area_m2": 38.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 755,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 640000.0,
+    "area_m2": 132.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 756,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 931000.0,
+    "area_m2": 197.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 757,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 279000.0,
+    "area_m2": 44.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 758,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 978000.0,
+    "area_m2": 156.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 759,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 375000.0,
+    "area_m2": 107.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 760,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 920000.0,
+    "area_m2": 176.8,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 761,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 1361000.0,
+    "area_m2": 179.8,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 762,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 295000.0,
+    "area_m2": 96.2,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 763,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 225000.0,
+    "area_m2": 45.3,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 764,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 1334000.0,
+    "area_m2": 225.9,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 765,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 758000.0,
+    "area_m2": 123.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 766,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 568000.0,
+    "area_m2": 111.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 767,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 1030000.0,
+    "area_m2": 149.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 768,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 665000.0,
+    "area_m2": 131.9,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 769,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 1041000.0,
+    "area_m2": 215.4,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 770,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 901000.0,
+    "area_m2": 234.8,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 771,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 337000.0,
+    "area_m2": 131.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 772,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 765000.0,
+    "area_m2": 165.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 773,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 323000.0,
+    "area_m2": 49.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 774,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 154000.0,
+    "area_m2": 62.5,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 775,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 391000.0,
+    "area_m2": 118.3,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 776,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 616000.0,
+    "area_m2": 210.5,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 777,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 559000.0,
+    "area_m2": 145.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 778,
+    "tipo": "Kitnet",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 266000.0,
+    "area_m2": 33.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 779,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 702000.0,
+    "area_m2": 248.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 780,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 963000.0,
+    "area_m2": 148.8,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 781,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 586000.0,
+    "area_m2": 72.7,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 782,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 380000.0,
+    "area_m2": 75.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 783,
+    "tipo": "Kitnet",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 136000.0,
+    "area_m2": 38.4,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 784,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 425000.0,
+    "area_m2": 118.6,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 785,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 804000.0,
+    "area_m2": 160.6,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 786,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 694000.0,
+    "area_m2": 162.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 787,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 200000.0,
+    "area_m2": 54.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 788,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 1484000.0,
+    "area_m2": 188.5,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 789,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 603000.0,
+    "area_m2": 90.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 790,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 990000.0,
+    "area_m2": 221.9,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 791,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 354000.0,
+    "area_m2": 54.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 792,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 396000.0,
+    "area_m2": 98.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 793,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 631000.0,
+    "area_m2": 132.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 794,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 913000.0,
+    "area_m2": 222.5,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 795,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 664000.0,
+    "area_m2": 96.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 796,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 1226000.0,
+    "area_m2": 217.8,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 797,
+    "tipo": "Kitnet",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 161000.0,
+    "area_m2": 33.7,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 798,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 1032000.0,
+    "area_m2": 239.7,
+    "quartos": 5,
+    "banheiros": 1
+  },
+  {
+    "id": 799,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 879000.0,
+    "area_m2": 199.2,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 800,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 353000.0,
+    "area_m2": 94.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 801,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 654000.0,
+    "area_m2": 120.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 802,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 874000.0,
+    "area_m2": 187.9,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 803,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 1053000.0,
+    "area_m2": 220.2,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 804,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 395000.0,
+    "area_m2": 92.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 805,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 812000.0,
+    "area_m2": 156.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 806,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 264000.0,
+    "area_m2": 62.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 807,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 933000.0,
+    "area_m2": 204.9,
+    "quartos": 5,
+    "banheiros": 4
+  },
+  {
+    "id": 808,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 777000.0,
+    "area_m2": 120.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 809,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 652000.0,
+    "area_m2": 110.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 810,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 462000.0,
+    "area_m2": 105.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 811,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 1135000.0,
+    "area_m2": 197.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 812,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 521000.0,
+    "area_m2": 115.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 813,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 214000.0,
+    "area_m2": 71.9,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 814,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 682000.0,
+    "area_m2": 230.9,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 815,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 303000.0,
+    "area_m2": 84.2,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 816,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 691000.0,
+    "area_m2": 118.1,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 817,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 531000.0,
+    "area_m2": 90.8,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 818,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 974000.0,
+    "area_m2": 156.0,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 819,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 990000.0,
+    "area_m2": 100.4,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 820,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 401000.0,
+    "area_m2": 87.3,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 821,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 362000.0,
+    "area_m2": 119.7,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 822,
+    "tipo": "Kitnet",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 194000.0,
+    "area_m2": 29.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 823,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 428000.0,
+    "area_m2": 75.1,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 824,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 600000.0,
+    "area_m2": 117.5,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 825,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 410000.0,
+    "area_m2": 130.3,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 826,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cabral",
+    "preco": 1356000.0,
+    "area_m2": 203.7,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 827,
+    "tipo": "Kitnet",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 189000.0,
+    "area_m2": 35.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 828,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 608000.0,
+    "area_m2": 211.6,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 829,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 1239000.0,
+    "area_m2": 150.7,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 830,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 888000.0,
+    "area_m2": 129.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 831,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 454000.0,
+    "area_m2": 123.2,
+    "quartos": 2,
+    "banheiros": 4
+  },
+  {
+    "id": 832,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 945000.0,
+    "area_m2": 169.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 833,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 355000.0,
+    "area_m2": 61.2,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 834,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 1392000.0,
+    "area_m2": 172.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 835,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 965000.0,
+    "area_m2": 168.0,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 836,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 1044000.0,
+    "area_m2": 170.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 837,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 1600000.0,
+    "area_m2": 250.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 838,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 313000.0,
+    "area_m2": 88.9,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 839,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 425000.0,
+    "area_m2": 149.2,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 840,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 615000.0,
+    "area_m2": 73.4,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 841,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 397000.0,
+    "area_m2": 132.9,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 842,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 182000.0,
+    "area_m2": 37.6,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 843,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 211000.0,
+    "area_m2": 66.5,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 844,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 598000.0,
+    "area_m2": 199.9,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 845,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 812000.0,
+    "area_m2": 102.3,
+    "quartos": 1,
+    "banheiros": 3
+  },
+  {
+    "id": 846,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 495000.0,
+    "area_m2": 184.7,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 847,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 334000.0,
+    "area_m2": 74.9,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 848,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 457000.0,
+    "area_m2": 96.5,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 849,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 1290000.0,
+    "area_m2": 195.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 850,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 356000.0,
+    "area_m2": 79.0,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 851,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 268000.0,
+    "area_m2": 94.7,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 852,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 95000.0,
+    "area_m2": 30.4,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 853,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 803000.0,
+    "area_m2": 150.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 854,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 235000.0,
+    "area_m2": 90.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 855,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 187000.0,
+    "area_m2": 41.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 856,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 1328000.0,
+    "area_m2": 257.3,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 857,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 381000.0,
+    "area_m2": 123.2,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 858,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 224000.0,
+    "area_m2": 52.3,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 859,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 491000.0,
+    "area_m2": 181.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 860,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 285000.0,
+    "area_m2": 61.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 861,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 523000.0,
+    "area_m2": 141.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 862,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 363000.0,
+    "area_m2": 139.6,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 863,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 412000.0,
+    "area_m2": 144.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 864,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 271000.0,
+    "area_m2": 57.5,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 865,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 575000.0,
+    "area_m2": 77.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 866,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 512000.0,
+    "area_m2": 148.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 867,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 980000.0,
+    "area_m2": 230.7,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 868,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 637000.0,
+    "area_m2": 142.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 869,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 548000.0,
+    "area_m2": 206.6,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 870,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 320000.0,
+    "area_m2": 87.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 871,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 750000.0,
+    "area_m2": 209.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 872,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 852000.0,
+    "area_m2": 259.8,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 873,
+    "tipo": "Kitnet",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 216000.0,
+    "area_m2": 30.5,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 874,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 591000.0,
+    "area_m2": 135.0,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 875,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 351000.0,
+    "area_m2": 73.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 876,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 115000.0,
+    "area_m2": 40.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 877,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 281000.0,
+    "area_m2": 82.2,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 878,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 472000.0,
+    "area_m2": 113.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 879,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 774000.0,
+    "area_m2": 140.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 880,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 543000.0,
+    "area_m2": 239.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 881,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 589000.0,
+    "area_m2": 104.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 882,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 559000.0,
+    "area_m2": 84.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 883,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 708000.0,
+    "area_m2": 136.0,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 884,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 352000.0,
+    "area_m2": 78.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 885,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 810000.0,
+    "area_m2": 253.8,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 886,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 444000.0,
+    "area_m2": 67.9,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 887,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 379000.0,
+    "area_m2": 80.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 888,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 627000.0,
+    "area_m2": 114.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 889,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 381000.0,
+    "area_m2": 114.1,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 890,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 965000.0,
+    "area_m2": 175.3,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 891,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 276000.0,
+    "area_m2": 79.0,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 892,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 645000.0,
+    "area_m2": 200.0,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 893,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 323000.0,
+    "area_m2": 46.5,
+    "quartos": 1,
+    "banheiros": 3
+  },
+  {
+    "id": 894,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 1351000.0,
+    "area_m2": 253.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 895,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 1188000.0,
+    "area_m2": 215.3,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 896,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 354000.0,
+    "area_m2": 78.0,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 897,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Santa Felicidade",
+    "preco": 933000.0,
+    "area_m2": 181.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 898,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 168000.0,
+    "area_m2": 61.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 899,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 807000.0,
+    "area_m2": 173.6,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 900,
+    "tipo": "Sobrado",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 445000.0,
+    "area_m2": 121.0,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 901,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 379000.0,
+    "area_m2": 127.0,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 902,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 479000.0,
+    "area_m2": 91.2,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 903,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 811000.0,
+    "area_m2": 175.4,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 904,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Iguaçu",
+    "preco": 915000.0,
+    "area_m2": 251.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 905,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 513000.0,
+    "area_m2": 149.7,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 906,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 160000.0,
+    "area_m2": 34.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 907,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 958000.0,
+    "area_m2": 217.2,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 908,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 949000.0,
+    "area_m2": 191.5,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 909,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 844000.0,
+    "area_m2": 211.8,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 910,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 735000.0,
+    "area_m2": 94.3,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 911,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 507000.0,
+    "area_m2": 115.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 912,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 388000.0,
+    "area_m2": 86.0,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 913,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 928000.0,
+    "area_m2": 163.6,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 914,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 339000.0,
+    "area_m2": 53.4,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 915,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 937000.0,
+    "area_m2": 132.6,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 916,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 829000.0,
+    "area_m2": 84.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 917,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 664000.0,
+    "area_m2": 100.3,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 918,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 451000.0,
+    "area_m2": 167.2,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 919,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 276000.0,
+    "area_m2": 49.1,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 920,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 234000.0,
+    "area_m2": 32.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 921,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 492000.0,
+    "area_m2": 98.0,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 922,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 559000.0,
+    "area_m2": 154.3,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 923,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 414000.0,
+    "area_m2": 166.1,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 924,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 536000.0,
+    "area_m2": 96.8,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 925,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 956000.0,
+    "area_m2": 211.0,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 926,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 185000.0,
+    "area_m2": 38.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 927,
+    "tipo": "Kitnet",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 64000.0,
+    "area_m2": 22.6,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 928,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 932000.0,
+    "area_m2": 207.7,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 929,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 202000.0,
+    "area_m2": 44.3,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 930,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Fazenda Velha",
+    "preco": 685000.0,
+    "area_m2": 143.7,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 931,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 420000.0,
+    "area_m2": 112.7,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 932,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 434000.0,
+    "area_m2": 75.4,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 933,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 369000.0,
+    "area_m2": 69.3,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 934,
+    "tipo": "Kitnet",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 156000.0,
+    "area_m2": 31.3,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 935,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 603000.0,
+    "area_m2": 135.9,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 936,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Centro",
+    "preco": 360000.0,
+    "area_m2": 95.8,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 937,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 274000.0,
+    "area_m2": 70.3,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 938,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 711000.0,
+    "area_m2": 191.7,
+    "quartos": 5,
+    "banheiros": 4
+  },
+  {
+    "id": 939,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 299000.0,
+    "area_m2": 106.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 940,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Centro",
+    "preco": 978000.0,
+    "area_m2": 142.2,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 941,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 859000.0,
+    "area_m2": 182.8,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 942,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 780000.0,
+    "area_m2": 190.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 943,
+    "tipo": "Kitnet",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 128000.0,
+    "area_m2": 18.9,
+    "quartos": 1,
+    "banheiros": 1
+  },
+  {
+    "id": 944,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 654000.0,
+    "area_m2": 132.1,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 945,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 175000.0,
+    "area_m2": 48.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 946,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 759000.0,
+    "area_m2": 132.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 947,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 538000.0,
+    "area_m2": 156.4,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 948,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 1029000.0,
+    "area_m2": 176.0,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 949,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 826000.0,
+    "area_m2": 123.0,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 950,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 320000.0,
+    "area_m2": 105.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 951,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 195000.0,
+    "area_m2": 82.7,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 952,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 778000.0,
+    "area_m2": 165.0,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 953,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Boneca do Iguaçu",
+    "preco": 495000.0,
+    "area_m2": 77.0,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 954,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 607000.0,
+    "area_m2": 151.3,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 955,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 910000.0,
+    "area_m2": 156.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 956,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Costeira",
+    "preco": 1447000.0,
+    "area_m2": 259.2,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 957,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Água Verde",
+    "preco": 468000.0,
+    "area_m2": 69.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 958,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Centro",
+    "preco": 421000.0,
+    "area_m2": 73.9,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 959,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 431000.0,
+    "area_m2": 123.0,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 960,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Batel",
+    "preco": 422000.0,
+    "area_m2": 60.4,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 961,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 662000.0,
+    "area_m2": 177.6,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 962,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 927000.0,
+    "area_m2": 144.4,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 963,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 778000.0,
+    "area_m2": 106.4,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 964,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 294000.0,
+    "area_m2": 85.7,
+    "quartos": 2,
+    "banheiros": 3
+  },
+  {
+    "id": 965,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 546000.0,
+    "area_m2": 165.7,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 966,
+    "tipo": "Casa",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 625000.0,
+    "area_m2": 229.8,
+    "quartos": 5,
+    "banheiros": 2
+  },
+  {
+    "id": 967,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Portão",
+    "preco": 1011000.0,
+    "area_m2": 159.8,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 968,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 886000.0,
+    "area_m2": 227.2,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 969,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Centro",
+    "preco": 564000.0,
+    "area_m2": 154.0,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 970,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 1264000.0,
+    "area_m2": 145.5,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 971,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 309000.0,
+    "area_m2": 98.8,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 972,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 247000.0,
+    "area_m2": 73.7,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 973,
+    "tipo": "Apartamento",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 211000.0,
+    "area_m2": 65.4,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 974,
+    "tipo": "Sobrado",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 435000.0,
+    "area_m2": 68.3,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 975,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 538000.0,
+    "area_m2": 147.9,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 976,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Vila Macedo",
+    "preco": 627000.0,
+    "area_m2": 171.2,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 977,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 1593000.0,
+    "area_m2": 207.3,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 978,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 548000.0,
+    "area_m2": 89.8,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 979,
+    "tipo": "Apartamento",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 303000.0,
+    "area_m2": 69.7,
+    "quartos": 1,
+    "banheiros": 2
+  },
+  {
+    "id": 980,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "São Cristóvão",
+    "preco": 299000.0,
+    "area_m2": 116.6,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 981,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Guaraituba",
+    "preco": 480000.0,
+    "area_m2": 81.5,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 982,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Centro",
+    "preco": 794000.0,
+    "area_m2": 125.5,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 983,
+    "tipo": "Casa",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 558000.0,
+    "area_m2": 117.6,
+    "quartos": 3,
+    "banheiros": 1
+  },
+  {
+    "id": 984,
+    "tipo": "Sobrado",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 648000.0,
+    "area_m2": 171.3,
+    "quartos": 4,
+    "banheiros": 2
+  },
+  {
+    "id": 985,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Guarituba",
+    "preco": 534000.0,
+    "area_m2": 195.9,
+    "quartos": 4,
+    "banheiros": 3
+  },
+  {
+    "id": 986,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Vargem Grande",
+    "preco": 847000.0,
+    "area_m2": 234.7,
+    "quartos": 5,
+    "banheiros": 3
+  },
+  {
+    "id": 987,
+    "tipo": "Sobrado",
+    "cidade": "Curitiba",
+    "bairro": "Boqueirão",
+    "preco": 988000.0,
+    "area_m2": 216.0,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 988,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Alto Tarumã",
+    "preco": 302000.0,
+    "area_m2": 50.7,
+    "quartos": 4,
+    "banheiros": 1
+  },
+  {
+    "id": 989,
+    "tipo": "Apartamento",
+    "cidade": "Curitiba",
+    "bairro": "Cajuru",
+    "preco": 921000.0,
+    "area_m2": 169.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 990,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Maracanã",
+    "preco": 739000.0,
+    "area_m2": 191.1,
+    "quartos": 3,
+    "banheiros": 3
+  },
+  {
+    "id": 991,
+    "tipo": "Apartamento",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 936000.0,
+    "area_m2": 179.3,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 992,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 945000.0,
+    "area_m2": 255.1,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 993,
+    "tipo": "Casa",
+    "cidade": "Araucária",
+    "bairro": "Capela Velha",
+    "preco": 543000.0,
+    "area_m2": 151.1,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 994,
+    "tipo": "Apartamento",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 417000.0,
+    "area_m2": 139.9,
+    "quartos": 2,
+    "banheiros": 1
+  },
+  {
+    "id": 995,
+    "tipo": "Apartamento",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Afonso Pena",
+    "preco": 570000.0,
+    "area_m2": 81.9,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 996,
+    "tipo": "Casa",
+    "cidade": "Piraquara",
+    "bairro": "Centro",
+    "preco": 668000.0,
+    "area_m2": 158.4,
+    "quartos": 3,
+    "banheiros": 4
+  },
+  {
+    "id": 997,
+    "tipo": "Casa",
+    "cidade": "Colombo",
+    "bairro": "Atuba",
+    "preco": 324000.0,
+    "area_m2": 91.8,
+    "quartos": 2,
+    "banheiros": 2
+  },
+  {
+    "id": 998,
+    "tipo": "Casa",
+    "cidade": "Pinhais",
+    "bairro": "Weissópolis",
+    "preco": 796000.0,
+    "area_m2": 200.6,
+    "quartos": 3,
+    "banheiros": 2
+  },
+  {
+    "id": 999,
+    "tipo": "Sobrado",
+    "cidade": "Colombo",
+    "bairro": "Roça Grande",
+    "preco": 683000.0,
+    "area_m2": 194.4,
+    "quartos": 4,
+    "banheiros": 4
+  },
+  {
+    "id": 1000,
+    "tipo": "Sobrado",
+    "cidade": "São José dos Pinhais",
+    "bairro": "Cidade Jardim",
+    "preco": 727000.0,
+    "area_m2": 208.6,
+    "quartos": 3,
+    "banheiros": 2
+  }
+]
