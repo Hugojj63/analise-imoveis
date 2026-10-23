@@ -109,6 +109,7 @@ def test_media_preco_m2_por_cidade():
     resposta = client.get("/analises/preco-m2-cidade")
     assert resposta.status_code == 200
     resultado = resposta.json()
+
     assert isinstance(resultado, dict)
     assert "Curitiba" in resultado
     assert resultado["Curitiba"] == pytest.approx(6673.804929)
@@ -118,6 +119,16 @@ def test_media_preco_ptest_media_preco_m2_por_bairro_ordenadoor_bairro_ordenado(
     assert resposta.status_code == 200
     medias = resposta.json()
     precos = list(medias.values())
+
+    assert precos == sorted(precos, reverse=True)
+
+def test_top_bairros_maiores():
+    resposta = client.get("/analises/top-bairros", params={"maiores": True})
+    assert resposta.status_code == 200
+    medias = resposta.json()
+    precos = list(medias.values())
+    
+    assert len(medias) == 5
     assert precos == sorted(precos, reverse=True)
 
 

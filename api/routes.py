@@ -1,5 +1,5 @@
-from analises.imoveis import (carregar_dados,calcular_media_preco_cidade,CAMINHO_DADOS,calcular_media_preco_bairro,calcular_preco_m2,calcular_media_preco_m2_cidade,calcular_media_preco_m2_bairro,)
-
+from analises.imoveis import (carregar_dados,calcular_media_preco_cidade,CAMINHO_DADOS,calcular_media_preco_bairro,calcular_preco_m2,
+calcular_media_preco_m2_cidade,calcular_media_preco_m2_bairro,selecionar_top_bairros)
 import json
 from pathlib import Path
 from typing import Literal
@@ -180,6 +180,19 @@ def analises_preco_bairro(ordenado: bool = False):
     calcular_preco_m2(df)
 
     medias = calcular_media_preco_m2_bairro(df, ordenado)
+
+    resultado = medias.to_dict()
+
+    return resultado
+
+
+@router.get("/analises/top-bairros")
+def analises_top_bairros(maiores: bool = True):
+    df = carregar_dados(CAMINHO_DADOS)
+
+    calcular_preco_m2(df)
+    
+    medias = selecionar_top_bairros(df, maiores)
 
     resultado = medias.to_dict()
     
