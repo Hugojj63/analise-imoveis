@@ -113,3 +113,12 @@ def test_media_preco_m2_por_cidade():
     assert "Curitiba" in resultado
     assert resultado["Curitiba"] == pytest.approx(6673.804929)
 
+def test_media_preco_ptest_media_preco_m2_por_bairro_ordenadoor_bairro_ordenado():
+    resposta = client.get("/analises/preco-m2-bairro", params={"ordenado": True})
+    assert resposta.status_code == 200
+    medias = resposta.json()
+    precos = list(medias.values())
+    assert precos == sorted(precos, reverse=True)
+
+
+
