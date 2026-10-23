@@ -6,6 +6,7 @@ CAMINHO_DADOS = Path(__file__).resolve().parent.parent / "data" / "imoveis.json"
 
 def carregar_dados(caminho):
     return pd.read_json(caminho)
+	
 
 
 def calcular_media_preco_cidade(df):
@@ -47,28 +48,26 @@ def selecionar_top_bairros(df, maiores=True):
 def main():
     df = carregar_dados(CAMINHO_DADOS)
 
-    print(df.shape)
-    print("----------------------------------------------------------------")
-    df.info()
-    print("----------------------------------------------------------------")
-    print(df.head())
-    print("----------------------------------------------------------------")
+    print("Média de preço por cidade:")
     print(calcular_media_preco_cidade(df))
-    print("----------------------------------------------------------------")
-    print(calcular_media_preco_bairro(df))
-    print("----------------------------------------------------------------")
+
+    print("\nMédia de preço por bairro:")
     print(calcular_media_preco_bairro(df, ordenado=True))
-    print("----------------------------------------------------------------")
+
     df = calcular_preco_m2(df)
-    print(df[["preco", "area_m2", "preco_m2"]].head())
-    print("----------------------------------------------------------------")
+
+    print("\nMédia de preço por m² por cidade:")
     print(calcular_media_preco_m2_cidade(df))
-    print("----------------------------------------------------------------")
+
+    print("\nMédia de preço por m² por bairro:")
     print(calcular_media_preco_m2_bairro(df, ordenado=True))
-    print("----------------------------------------------------------------")
-    print(selecionar_top_bairros(df, maiores=True).head())
-    print("----------------------------------------------------------------")
-    print(selecionar_top_bairros(df, maiores=False).head())
+
+    print("\nCinco bairros com maior preço médio por m²:")
+    print(selecionar_top_bairros(df, maiores=True))
+
+    print("\nCinco bairros com menor preço médio por m²:")
+    print(selecionar_top_bairros(df, maiores=False))
+
 
 
 if __name__ == "__main__":
