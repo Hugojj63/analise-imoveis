@@ -1,6 +1,7 @@
 
 from fastapi.testclient import TestClient
 from api.main import app
+import pytest
 
 client = TestClient(app)
 
@@ -79,10 +80,7 @@ def test_paginacao():
 
 
 def test_ordenar_por_menor_preco():
-    resposta = client.get(
-        "/imoveis",
-        params={"ordem": "menor_preco", "limite": 10}
-    )
+    resposta = client.get("/imoveis",params={"ordem": "menor_preco", "limite": 10})
 
     assert resposta.status_code == 200
 
@@ -93,10 +91,7 @@ def test_ordenar_por_menor_preco():
 
 
 def test_ordenar_por_maior_preco():
-    resposta = client.get(
-        "/imoveis",
-        params={"ordem": "maior_preco", "limite": 10}
-    )
+    resposta = client.get("/imoveis",params={"ordem": "maior_preco", "limite": 10})
 
     assert resposta.status_code == 200
 
@@ -105,9 +100,21 @@ def test_ordenar_por_maior_preco():
 
 
 def test_rejeitar_tipo_invalido():
-    resposta = client.get(
-        "/imoveis",
-        params={"tipo": "Fazenda"}
-    )
+    resposta = client.get("/imoveis",params={"tipo": "Fazenda"})
 
     assert resposta.status_code == 422
+
+
+
+def test_media_preco_por_cidade():
+    resposta = client.get("/analises/preco-cidade")
+
+    assert resposta.status_code == 200
+
+    resultado = resposta.json()
+
+    assert isinstance(resultado, dict)
+    assert "Curitiba" in resultado
+    assert resultado["Curitiba"] == pytest.approx(843554.8387)
+
+

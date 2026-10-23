@@ -1,4 +1,4 @@
-
+from analises.imoveis import (carregar_dados,calcular_media_preco_cidade,CAMINHO_DADOS,)
 import json
 from pathlib import Path
 from typing import Literal
@@ -134,3 +134,15 @@ def buscar_imovel(imovel_id: int):
         status_code=404,
         detail="Imóvel não encontrado"
     )
+
+
+@router.get("/analises/preco-cidade")
+def analises():
+    
+    df = carregar_dados(CAMINHO_DADOS)
+
+    medias = calcular_media_preco_cidade(df)
+
+    resultado = medias.to_dict()
+
+    return resultado
