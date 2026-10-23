@@ -1,4 +1,5 @@
-from analises.imoveis import (carregar_dados,calcular_media_preco_cidade,CAMINHO_DADOS,)
+from analises.imoveis import (carregar_dados,calcular_media_preco_cidade,CAMINHO_DADOS,calcular_media_preco_bairro,calcular_preco_m2,calcular_media_preco_m2_cidade,)
+
 import json
 from pathlib import Path
 from typing import Literal
@@ -137,12 +138,35 @@ def buscar_imovel(imovel_id: int):
 
 
 @router.get("/analises/preco-cidade")
-def analises():
-    
+def analises_preco_cidade():
     df = carregar_dados(CAMINHO_DADOS)
 
     medias = calcular_media_preco_cidade(df)
 
     resultado = medias.to_dict()
 
+    return resultado
+
+
+
+@router.get("/analises/preco-bairro")
+def analises_preco_bairro(ordenado: bool = False):
+    df = carregar_dados(CAMINHO_DADOS)
+
+    medias = calcular_media_preco_bairro(df, ordenado)
+    
+    resultado = medias.to_dict()
+    
+    return resultado
+
+
+@router.get("/analises/preco-m2-cidade")
+def preco_medio_por_m2():
+    df = carregar_dados(CAMINHO_DADOS)
+
+    calcular_preco_m2(df)
+    media = calcular_media_preco_m2_cidade(df)
+    
+    resultado = media.to_dict()
+    
     return resultado
