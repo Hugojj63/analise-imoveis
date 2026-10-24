@@ -24,7 +24,16 @@ df["preco_m2"] = df["preco"] / df["area_m2"]
 cidades = df["cidade"].unique()
 cidade_selecionada = st.selectbox("Selecione uma cidade", cidades)
 
-df_filtrado = df[df["cidade"] == cidade_selecionada].copy()
+tipos = df["tipo"].unique()
+
+tipos = ["Todos"] + list(df["tipo"].unique())
+tipo_selecionado = st.selectbox("Selecione um tipo", tipos)
+
+if tipo_selecionado == "Todos":
+    df_filtrado = df[df["cidade"] == cidade_selecionada].copy()
+else:
+    df_filtrado = df[(df["cidade"] == cidade_selecionada) &(df["tipo"] == tipo_selecionado)].copy()
+
 
 # Calcula os indicadores
 total_imoveis = df_filtrado.shape[0]
