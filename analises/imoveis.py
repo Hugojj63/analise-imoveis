@@ -36,12 +36,12 @@ def calcular_media_preco_m2_bairro(df, ordenado=False):
     
     return media_bairro
 
-def selecionar_top_bairros(df, maiores=True):
+def selecionar_top_bairros(df, maiores=True, limite=5):
     media_bairro = df.groupby("bairro")["preco_m2"].mean()
     if maiores:
-        return media_bairro.sort_values(ascending=False).head()
+        return media_bairro.sort_values(ascending=False).head(limite)
     else:
-        return media_bairro.sort_values(ascending=True).head()
+        return media_bairro.sort_values(ascending=True).head(limite)
 
 
 

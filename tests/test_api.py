@@ -127,9 +127,26 @@ def test_top_bairros_maiores():
     assert resposta.status_code == 200
     medias = resposta.json()
     precos = list(medias.values())
-    
     assert len(medias) == 5
     assert precos == sorted(precos, reverse=True)
+
+
+def test_top_bairros_retorna_quantidade_solicitada():
+    resposta = client.get("/analises/top-bairros?maiores=true&limite=3")
+    assert resposta.status_code == 200
+    assert len(resposta.json()) == 3
+
+
+def test_top_bairros_menores_retorna_quantidade_solicitada():
+    resposta = client.get("/analises/top-bairros?maiores=false&limite=5")
+    assert resposta.status_code == 200
+    assert len(resposta.json()) == 5
+
+
+def test_top_bairros_rejeita_limite_zero():
+    resposta = client.get("/analises/top-bairros?limite=0")
+    assert resposta.status_code == 422
+
 
 
 

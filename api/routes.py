@@ -91,8 +91,6 @@ def listar_imoveis(
         imoveis_filtrados = imoveis_por_preco_max
 
 
-
-
     if ordem == "id":
         imoveis_ordenados = sorted(
             imoveis_filtrados,
@@ -187,12 +185,12 @@ def analises_preco_bairro(ordenado: bool = False):
 
 
 @router.get("/analises/top-bairros")
-def analises_top_bairros(maiores: bool = True):
+def analises_top_bairros(maiores: bool = True , limite: int = Query(default=5, ge=1, le=100)):
     df = carregar_dados(CAMINHO_DADOS)
 
     calcular_preco_m2(df)
     
-    medias = selecionar_top_bairros(df, maiores)
+    medias = selecionar_top_bairros(df, maiores, limite)
 
     resultado = medias.to_dict()
     
