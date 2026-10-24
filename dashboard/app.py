@@ -44,10 +44,9 @@ if tipo_selecionado == "Todos":
 else:
     df_filtrado = df[(df["cidade"] == cidade_selecionada) & (df["tipo"] == tipo_selecionado) & (df["preco"] >= faixa_preco[0]) & (df["preco"] <= faixa_preco[1])].copy()
 
-
-
-
-
+if df_filtrado.empty:
+    st.warning("Nenhum imóvel encontrado com os filtros selecionados.")
+    st.stop()
 
 total_imoveis = df_filtrado.shape[0]
 media_preco = df_filtrado["preco"].mean()
