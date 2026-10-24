@@ -64,13 +64,11 @@ col4.metric("Mediana dos Preços", f"R$ {mediana:,.2f}")
 
 
 preco_por_bairro = df_filtrado.groupby("bairro")["preco"].mean()
-
 st.subheader("Preço médio por bairro")
 st.bar_chart(preco_por_bairro)
 
 
 preco_m2_por_bairro = df_filtrado.groupby("bairro")["preco_m2"].mean()
-
 st.subheader("Preço médio por m² por bairro")
 st.bar_chart(preco_m2_por_bairro)
 
