@@ -73,5 +73,16 @@ st.subheader("Preço médio por m² por bairro")
 st.bar_chart(preco_m2_por_bairro)
 
 
+csv = df_filtrado.to_csv(index=False, sep=";", decimal=",")
+
+st.download_button(
+    label="Baixar dados filtrados (CSV)",
+    data=csv.encode("utf-8-sig"), 
+    file_name="imoveis_filtrados.csv",
+    mime="text/csv",
+)
+
+
 st.subheader("Dados dos imóveis")
 st.dataframe(df_filtrado)
+
