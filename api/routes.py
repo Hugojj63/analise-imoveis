@@ -141,7 +141,13 @@ def analises_preco_cidade():
 
     medias = calcular_media_preco_cidade(df)
 
-    resultado = medias.to_dict()
+    resultado = [
+    {
+        "cidade": cidade,
+        "preco_medio": preco
+    }
+    for cidade, preco in medias.items()
+]
 
     return resultado
 
@@ -192,6 +198,12 @@ def analises_top_bairros(maiores: bool = True , limite: int = Query(default=5, g
     
     medias = selecionar_top_bairros(df, maiores, limite)
 
-    resultado = medias.to_dict()
-    
+    resultado = [
+    {
+        "bairro": bairro,
+        "preco_medio_m2": preco
+    }
+    for bairro, preco in medias.items()
+    ]
+
     return resultado
